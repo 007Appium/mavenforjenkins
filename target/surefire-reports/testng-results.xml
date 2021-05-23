@@ -2,16 +2,23 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="10648" started-at="2021-05-08T18:44:13 IST" finished-at="2021-05-08T18:44:24 IST">
+  <suite name="Suite" duration-ms="24089" started-at="2021-05-23T15:38:19 IST" finished-at="2021-05-23T15:38:43 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="10648" started-at="2021-05-08T18:44:13 IST" finished-at="2021-05-08T18:44:24 IST">
+    <test name="Test" duration-ms="24089" started-at="2021-05-23T15:38:19 IST" finished-at="2021-05-23T15:38:43 IST">
       <class name="unitTest.FirstProgram">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:unitTest.FirstProgram@d44fc21]" name="beforeMethod" is-config="true" duration-ms="5639" started-at="2021-05-08T18:44:13 IST" finished-at="2021-05-08T18:44:19 IST">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:unitTest.FirstProgram@4e7dc304]" name="beforeMethod" is-config="true" duration-ms="16775" started-at="2021-05-23T15:38:19 IST" finished-at="2021-05-23T15:38:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:unitTest.FirstProgram@d44fc21]" name="loginTest" duration-ms="4927" started-at="2021-05-08T18:44:19 IST" finished-at="2021-05-08T18:44:24 IST">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:unitTest.FirstProgram@4e7dc304]" name="loginTest" duration-ms="7247" started-at="2021-05-23T15:38:36 IST" finished-at="2021-05-23T15:38:43 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
